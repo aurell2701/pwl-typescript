@@ -1,0 +1,25 @@
+{
+  "name": "pwl-typescript",
+  "version": "1.0.0",
+  "description": "belajar memahami konsep dari typescript dasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurell2701/pwl-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aurell2701/pwl-typescript/issues"
+  },
+  "homepage": "https://github.com/aurell2701/pwl-typescript#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
