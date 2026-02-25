@@ -1,2 +1,2 @@
 # pwl-typescript
-belajar memahami konsep dasar dari typescript
+belajar memahami konsep dari typescript dasar
